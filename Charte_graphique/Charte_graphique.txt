@@ -1,0 +1,38 @@
+Front-end Style Guide 
+
+Mise en page : 
+
+Les maquettes ont été créés dans les largeurs suivantes :
+
+Mobile 375px
+Desktopt 1440px
+
+Couleurs :
+
+Primaires :
+#00bcd4
+#e69d3e
+
+Neutre :
+#ffffff
+#000000
+
+Typographie :
+
+Corps du texte
+Font size : 18px
+
+<h3> des cartes 28px
+<h4> des cartes 18px
+<p> des cartes tarifs : 15px
+
+
+Fonts :
+
+Family : Segeo UI , sans-serif
+Weights : 400, 600
+
+Icons : 
+Bootstrap Icons
+
+
