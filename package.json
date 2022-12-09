@@ -1,0 +1,24 @@
+{
+  "name": "eval-5",
+  "version": "1.0.0",
+  "description": "Charles-Cantin-Photographe",
+  "main": "scripts.js",
+  "scripts": {
+    "start" : "eleventy --serve",
+    "build" : "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Florent-Hoareau/Eval-5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Florent-Hoareau/Eval-5/issues"
+  },
+  "homepage": "https://github.com/Florent-Hoareau/Eval-5#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2"
+  }
+}
