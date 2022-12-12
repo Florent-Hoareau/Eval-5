@@ -8,7 +8,7 @@ collections:
     label: "Galerie"
     folder: "src"
     create: true
-    slug: {{slug}}
+    slug: "{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
 
