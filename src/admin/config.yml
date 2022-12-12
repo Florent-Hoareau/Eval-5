@@ -4,9 +4,10 @@ backend:
 media_folder: "images"
 public_folder: "/"
 collections:
-  - name:
-    label:
+  - name: ""
+    label: ""
     folder: "/src"
     create: true
     fields:
-      
+      - {label: "Title", name: "title", widget: "string"}
+
