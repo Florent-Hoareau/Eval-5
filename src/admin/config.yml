@@ -4,8 +4,8 @@ backend:
 media_folder: "images"
 public_folder: "/"
 collections:
-  - name: ""
-    label: ""
+  - name: "galerie"
+    label: "Galerie"
     folder: "src"
     create: true
     fields:
