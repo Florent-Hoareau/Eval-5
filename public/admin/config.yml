@@ -7,6 +7,5 @@ collections:
 - name: "galerie"
   label: "Galerie"
   folder: "/src/galerie"
-  create: true
   fields:
       - {label: "Image", name: "thumbnail", widget: "image"}
