@@ -6,7 +6,7 @@ public_folder: "/"
 collections:
   - name: ""
     label: ""
-    folder: "/src"
+    folder: "src"
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
