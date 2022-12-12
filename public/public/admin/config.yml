@@ -3,6 +3,3 @@ backend:
   branch: main
 media_folder: "images"
 public_folder: "/"
-collections:
-  - folder: "/src"
-    create: true
