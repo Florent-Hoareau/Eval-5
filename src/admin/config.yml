@@ -6,6 +6,6 @@ public_folder: "uploads"
 collections:
 - name: "galerie"
   label: "Galerie"
-  folder: "/src"
+  folder: "/src/_galerie"
   fields:
       - {label: "Image", name: "thumbnail", widget: "image"}
