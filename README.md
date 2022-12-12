@@ -29,5 +29,6 @@ Pour ma part, j'ai utilisé:
     git clone https://github.com/Florent-Hoareau/Eval-5.git
     Installer les dépendances de l'application avec
     npm install
+    Ou pour le consulter en ligne : https://glistening-biscochitos-f04024.netlify.app/
 
 Vous pouvez désormais naviguer sur le site.
