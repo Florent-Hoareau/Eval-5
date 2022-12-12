@@ -6,8 +6,9 @@ public_folder: "/"
 collections:
   - name: "galerie"
     label: "Galerie"
-    folder: "/src"
+    folder: "src"
     create: true
+    slug: {{slug}}
     fields:
       - {label: "Title", name: "title", widget: "string"}
 
