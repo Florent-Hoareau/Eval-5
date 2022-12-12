@@ -4,5 +4,9 @@ backend:
 media_folder: "images"
 public_folder: "/"
 collections:
-  - folder: "/src"
+  - name:
+    label:
+    folder: "/src"
     create: true
+    fields:
+      
